@@ -1,5 +1,7 @@
 # Modifying-Auto-Completes-in-Sublime-Text-3
 
+Sublime Text 3 stores its packages in .sublime-package zip files (the location varies by OS), you can't just go to the Packages folder and see everything. However, there is an excellent plugin called PackageResourceViewer (available via Package Control) that can, among other things, extract files or whole packages to the Packages directory.
+
 __***Guide To modify the auto complete snippets in Sublime Text 3***__
 
 Once you've installed the plugin:
