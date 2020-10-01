@@ -7,8 +7,7 @@ Once you've installed the plugin:
 **Step1:** 
 You have to open Package Resource Viewer from Command Pallete
 
-   Command Pallete : CTRL + SHIFT + P
-   
+   Command Pallete : CTRL + SHIFT + P\
    type prv to get the **P**ackage **R**esource **V**iewer options.
    
    
