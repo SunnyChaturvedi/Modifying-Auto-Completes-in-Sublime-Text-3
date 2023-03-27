@@ -39,7 +39,7 @@ You have to open Package Resource Viewer from Command Pallete
 
 **Step5:** Go to the snippet you want to edit.\
 (Here I want to edit the for loop snippet to change the bracket alignments)
-(hehe XP competitve programmer fetishes)
+(hehe, fetishes)
 ![Testimage1](Images/Screenshot%20(261).png)
 
 &nbsp;
